@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shteyman_Gil_Parth_Adhia_Lab_1_4", "Shteyman_Gil_Parth_Adhia_Lab_1_4\Shteyman_Gil_Parth_Adhia_Lab_1_4.vcxproj", "{BEB3DA43-CD76-4DF0-A4D7-F949E6923BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB3DA43-CD76-4DF0-A4D7-F949E6923BFC}.Debug|x64.ActiveCfg = Debug|x64
+		{BEB3DA43-CD76-4DF0-A4D7-F949E6923BFC}.Debug|x64.Build.0 = Debug|x64
+		{BEB3DA43-CD76-4DF0-A4D7-F949E6923BFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEB3DA43-CD76-4DF0-A4D7-F949E6923BFC}.Debug|x86.Build.0 = Debug|Win32
+		{BEB3DA43-CD76-4DF0-A4D7-F949E6923BFC}.Release|x64.ActiveCfg = Release|x64
+		{BEB3DA43-CD76-4DF0-A4D7-F949E6923BFC}.Release|x64.Build.0 = Release|x64
+		{BEB3DA43-CD76-4DF0-A4D7-F949E6923BFC}.Release|x86.ActiveCfg = Release|Win32
+		{BEB3DA43-CD76-4DF0-A4D7-F949E6923BFC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4778E499-D91F-4BF1-AE1B-60F197C17B8D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  Shteyman_Gil_Adhia_Parth_Lab_3_3.cpp
+C:\Users\gilli\OneDrive\engineering\Grade 11 Labs cpp\Shteyman_Gil_Parth_Adhia_Labs\Shteyman_Gil_Adhia_Parth_Lab_3_3\Shteyman_Gil_Adhia_Parth_Lab_3_3.cpp(15,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Shteyman_Gil_Adhia_Parth_Lab_3_3.vcxproj -> C:\Users\gilli\OneDrive\engineering\Grade 11 Labs cpp\Shteyman_Gil_Parth_Adhia_Labs\Debug\Shteyman_Gil_Adhia_Parth_Lab_3_3.exe

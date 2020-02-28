@@ -1,0 +1,4 @@
+﻿  Shteyman_Gil_Adhia_Parth_Lab_2_4.cpp
+C:\Users\gilli\OneDrive\engineering\Grade 11 Labs cpp\Shteyman_Gil_Parth_Adhia_Labs\Shteyman_Gil_Adhia_Parth_Lab_2_4\Shteyman_Gil_Adhia_Parth_Lab_2_4.cpp(39,16): warning C4101:  'b': unreferenced local variable
+C:\Users\gilli\OneDrive\engineering\Grade 11 Labs cpp\Shteyman_Gil_Parth_Adhia_Labs\Shteyman_Gil_Adhia_Parth_Lab_2_4\Shteyman_Gil_Adhia_Parth_Lab_2_4.cpp(39,12): warning C4101:  'a1': unreferenced local variable
+  Shteyman_Gil_Adhia_Parth_Lab_2_4.vcxproj -> C:\Users\gilli\OneDrive\engineering\Grade 11 Labs cpp\Shteyman_Gil_Parth_Adhia_Labs\Debug\Shteyman_Gil_Adhia_Parth_Lab_2_4.exe
